@@ -1,6 +1,6 @@
 # podcastr
 
-This web app is a podcast plataform created at NLW#5(Next Level Week 5) from Rockeseat.
+This web app is a podcast plataform created at NLW#5(Next Level Week 5) from Rocketseat.
 
 There are two pages: Home and Episode Page:
 
